@@ -18,7 +18,7 @@ header {
   display: flex;
   background-color: #d09e05;
   height: 150%;
-  margin: 0;
+  margin: 20px;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -26,8 +26,8 @@ header {
 }
 
 #header_image {
-  width: 20%;
-  height: 20%;
+  width: 250px;
+  height: 250px;
   margin-top: 3%;
 
 }
