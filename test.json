@@ -1,0 +1,34 @@
+{
+  "subsection": {
+    "General Stratagems": {
+      "stratagems": [
+        {
+          "name": "Dark_Fluid_Vessel",
+          "image_path": "../../media/stratagems/general/Dark_Fluid_Vessel.svg",
+          "keys": [
+            "w",
+            "a",
+            "d",
+            "s",
+            "w",
+            "w"
+          ]
+        },
+        {
+          "name": "Hellbomb",
+          "image_path": "../../media/stratagems/general/Hellbomb.svg",
+          "keys": [
+            "s",
+            "w",
+            "a",
+            "s",
+            "w",
+            "d",
+            "s",
+            "w"
+          ]
+        }
+      ]
+    }
+  }
+}
