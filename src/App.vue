@@ -1,17 +1,18 @@
 <template>
   <Header></Header>
-  <StratagemImage :imagePath="require('./assets/stratagems/bridge/Tesla_Tower.svg')"></StratagemImage>
+  <StratagemSubsection></StratagemSubsection>
 </template>
+
 
 <script>
 
 import Header from "@/components/Header.vue";
-import StratagemImage from "@/components/StratagemImage.vue";
+import StratagemSubsection from "@/components/StratagemSubsections.vue";
 
 export default {
   name: 'App',
   components: {
-    StratagemImage,
+    StratagemSubsection,
     Header
   }
 }
