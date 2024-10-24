@@ -1,6 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 import stratagemData from '../../stratagems.json'
+import StratagemImage from "@/components/StratagemImage.vue";
 
 const subsections = ref(Object.keys(stratagemData.subsections))
 </script>
@@ -13,6 +14,7 @@ const subsections = ref(Object.keys(stratagemData.subsections))
         <ul>
           <li v-for="stratagem in stratagemData.subsections[subsection].stratagems" :key="stratagem.name">
             {{ stratagem.name }}
+            <StratagemImage :imagePath="stratagem.image_path"></StratagemImage>
           </li>
         </ul>
       </li>

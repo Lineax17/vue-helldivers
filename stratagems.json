@@ -4,7 +4,7 @@
       "stratagems": [
         {
           "name": "Dark Fluid Vessel",
-          "image_path": "../../media/stratagems/general/Dark_Fluid_Vessel.svg",
+          "image_path": "../../assets/stratagems/general/Dark_Fluid_Vessel.svg",
           "keys": [
             "w",
             "a",
@@ -16,7 +16,7 @@
         },
         {
           "name": "Hellbomb",
-          "image_path": "../../media/stratagems/general/Hellbomb.svg",
+          "image_path": "../../assets/stratagems/general/Hellbomb.svg",
           "keys": [
             "s",
             "w",
