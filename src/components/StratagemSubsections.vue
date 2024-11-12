@@ -14,7 +14,7 @@ const subsections = ref(Object.keys(stratagemData.subsections))
           <li v-for="stratagem in stratagemData.subsections[subsection].stratagems" :key="stratagem.name">
             {{ stratagem.name }}
             {{ stratagem.image_path }}
-            <img src="{{ stratagem.image_path }}" alt="image">
+            <img :src="stratagem.image_path" alt="image">
           </li>
         </ul>
       </li>
