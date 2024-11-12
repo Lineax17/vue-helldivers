@@ -4,7 +4,7 @@
       "stratagems": [
         {
           "name": "Dark Fluid Vessel",
-          "image_path": "../../assets/stratagems/general/Dark_Fluid_Vessel.svg",
+          "image_path": "../assets/stratagems/general/Dark_Fluid_Vessel.svg",
           "keys": [
             "w",
             "a",
@@ -16,7 +16,7 @@
         },
         {
           "name": "Hellbomb",
-          "image_path": "../../assets/stratagems/general/Hellbomb.svg",
+          "image_path": "../assets/stratagems/general/Hellbomb.svg",
           "keys": [
             "s",
             "w",
@@ -30,7 +30,7 @@
         },
         {
           "name": "Orbital Illumination Flare",
-          "image_path": "../../assets/stratagems/general/Orbital_Illumination_Flare.svg",
+          "image_path": "../assets/stratagems/general/Orbital_Illumination_Flare.svg",
           "keys": [
             "d",
             "d",
@@ -40,7 +40,7 @@
         },
         {
           "name": "Prospecting Drill",
-          "image_path": "../../assets/stratagems/general/Prospecting_Drill.svg",
+          "image_path": "../assets/stratagems/general/Prospecting_Drill.svg",
           "keys": [
             "s",
             "s",
@@ -52,7 +52,7 @@
         },
         {
           "name": "Reinforce",
-          "image_path": "../../assets/stratagems/general/Reinforce.svg",
+          "image_path": "../assets/stratagems/general/Reinforce.svg",
           "keys": [
             "w",
             "s",
@@ -63,7 +63,7 @@
         },
         {
           "name": "Resupply",
-          "image_path": "../../assets/stratagems/general/Resupply.svg",
+          "image_path": "../assets/stratagems/general/Resupply.svg",
           "keys": [
             "s",
             "s",
@@ -73,7 +73,7 @@
         },
         {
           "name": "SEAF Artillery",
-          "image_path": "../../assets/stratagems/general/SEAF_Artillery.svg",
+          "image_path": "../assets/stratagems/general/SEAF_Artillery.svg",
           "keys": [
             "d",
             "w",
@@ -83,7 +83,7 @@
         },
         {
           "name": "Seismic Probe",
-          "image_path": "../../assets/stratagems/general/Seismic_Probe.svg",
+          "image_path": "../assets/stratagems/general/Seismic_Probe.svg",
           "keys": [
             "w",
             "w",
@@ -95,7 +95,7 @@
         },
         {
           "name": "SOS Beacon",
-          "image_path": "../../assets/stratagems/general/SOS_Beacon.svg",
+          "image_path": "../assets/stratagems/general/SOS_Beacon.svg",
           "keys": [
             "w",
             "s",
@@ -105,7 +105,7 @@
         },
         {
           "name": "Super Earth Flag",
-          "image_path": "../../assets/stratagems/general/Super_Earth_Flag.svg",
+          "image_path": "../assets/stratagems/general/Super_Earth_Flag.svg",
           "keys": [
             "s",
             "w",
@@ -115,7 +115,7 @@
         },
         {
           "name": "Tectonic Drill",
-          "image_path": "../../assets/stratagems/general/Tectonic_Drill.svg",
+          "image_path": "../assets/stratagems/general/Tectonic_Drill.svg",
           "keys": [
             "w",
             "s",
@@ -127,7 +127,7 @@
         },
         {
           "name": "Upload Data",
-          "image_path": "../../assets/stratagems/general/Upload_Data.svg",
+          "image_path": "../assets/stratagems/general/Upload_Data.svg",
           "keys": [
             "a",
             "d",
@@ -154,7 +154,7 @@
       "stratagems": [
         {
           "name": "Machine Gun",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Machine_Gun.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Machine_Gun.svg",
           "keys": [
             "s",
             "a",
@@ -165,7 +165,7 @@
         },
         {
           "name": "Anti-Materiel Rifle",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Anti-Materiel_Rifle.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Anti-Materiel_Rifle.svg",
           "keys": [
             "s",
             "a",
@@ -176,7 +176,7 @@
         },
         {
           "name": "Stalwart",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Stalwart.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Stalwart.svg",
           "keys": [
             "s",
             "a",
@@ -188,7 +188,7 @@
         },
         {
           "name": "Expendable Anti-Tank",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Expendable_Anti-Tank.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Expendable_Anti-Tank.svg",
           "keys": [
             "s",
             "s",
@@ -199,7 +199,7 @@
         },
         {
           "name": "Recoilless Rifle",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Recoilless_Rifle.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Recoilless_Rifle.svg",
           "keys": [
             "s",
             "a",
@@ -210,7 +210,7 @@
         },
         {
           "name": "Flamethrower",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Flamethrower.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Flamethrower.svg",
           "keys": [
             "s",
             "a",
@@ -221,7 +221,7 @@
         },
         {
           "name": "Autocannon",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Autocannon.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Autocannon.svg",
           "keys": [
             "s",
             "a",
@@ -233,7 +233,7 @@
         },
         {
           "name": "Heavy Machine Gun",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Heavy_Machine_Gun.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Heavy_Machine_Gun.svg",
           "keys": [
             "s",
             "a",
@@ -244,7 +244,7 @@
         },
         {
           "name": "Airburst Rocket Launcher",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Airburst_Rocket_Launcher.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Airburst_Rocket_Launcher.svg",
           "keys": [
             "s",
             "w",
@@ -255,7 +255,7 @@
         },
         {
           "name": "Railgun",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Railgun.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Railgun.svg",
           "keys": [
             "s",
             "d",
@@ -267,7 +267,7 @@
         },
         {
           "name": "Spear",
-          "image_path": "../../assets/stratagems/patriotic_administration_center/Spear.svg",
+          "image_path": "../assets/stratagems/patriotic_administration_center/Spear.svg",
           "keys": [
             "s",
             "s",
@@ -282,7 +282,7 @@
       "stratagems": [
         {
           "name": "Orbital Gatling Barrage",
-          "image_path": "../../assets/stratagems/orbital_cannons/Orbital_Gatling_Barrage.svg",
+          "image_path": "../assets/stratagems/orbital_cannons/Orbital_Gatling_Barrage.svg",
           "keys": [
             "d",
             "s",
@@ -293,7 +293,7 @@
         },
         {
           "name": "Orbital Airburst Strike",
-          "image_path": "../../assets/stratagems/orbital_cannons/Orbital_Airburst_Strike.svg",
+          "image_path": "../assets/stratagems/orbital_cannons/Orbital_Airburst_Strike.svg",
           "keys": [
             "d",
             "d",
@@ -302,7 +302,7 @@
         },
         {
           "name": "Orbital 120MM HE Barrage",
-          "image_path": "../../assets/stratagems/orbital_cannons/Orbital_120MM_HE_Barrage.svg",
+          "image_path": "../assets/stratagems/orbital_cannons/Orbital_120MM_HE_Barrage.svg",
           "keys": [
             "d",
             "d",
@@ -314,7 +314,7 @@
         },
         {
           "name": "Orbital 380MM HE Barrage",
-          "image_path": "../../assets/stratagems/orbital_cannons/Orbital_380MM_HE_Barrage.svg",
+          "image_path": "../assets/stratagems/orbital_cannons/Orbital_380MM_HE_Barrage.svg",
           "keys": [
             "d",
             "s",
@@ -327,7 +327,7 @@
         },
         {
           "name": "Orbital Walking Barrage",
-          "image_path": "../../assets/stratagems/orbital_cannons/Orbital_Walking_Barrage.svg",
+          "image_path": "../assets/stratagems/orbital_cannons/Orbital_Walking_Barrage.svg",
           "keys": [
             "d",
             "s",
@@ -339,7 +339,7 @@
         },
         {
           "name": "Orbital Laser",
-          "image_path": "../../assets/stratagems/orbital_cannons/Orbital_Laser.svg",
+          "image_path": "../assets/stratagems/orbital_cannons/Orbital_Laser.svg",
           "keys": [
             "d",
             "s",
@@ -350,7 +350,7 @@
         },
         {
           "name": "Orbital Railcannon Strike",
-          "image_path": "../../assets/stratagems/orbital_cannons/Orbital_Railcannon_Strike.svg",
+          "image_path": "../assets/stratagems/orbital_cannons/Orbital_Railcannon_Strike.svg",
           "keys": [
             "d",
             "w",
@@ -365,7 +365,7 @@
       "stratagems": [
         {
           "name": "Eagle Rearm",
-          "image_path": "../../assets/stratagems/hangar/Eagle_Rearm.svg",
+          "image_path": "../assets/stratagems/hangar/Eagle_Rearm.svg",
           "keys": [
             "w",
             "w",
@@ -376,7 +376,7 @@
         },
         {
           "name": "Eagle Strafing Run",
-          "image_path": "../../assets/stratagems/hangar/Eagle_Strafing_Run.svg",
+          "image_path": "../assets/stratagems/hangar/Eagle_Strafing_Run.svg",
           "keys": [
             "w",
             "d",
@@ -385,7 +385,7 @@
         },
         {
           "name": "Eagle Airstrike",
-          "image_path": "../../assets/stratagems/hangar/Eagle_Airstrike.svg",
+          "image_path": "../assets/stratagems/hangar/Eagle_Airstrike.svg",
           "keys": [
             "w",
             "d",
@@ -395,7 +395,7 @@
         },
         {
           "name": "Eagle Cluster Bomb",
-          "image_path": "../../assets/stratagems/hangar/Eagle_Cluster_Bomb.svg",
+          "image_path": "../assets/stratagems/hangar/Eagle_Cluster_Bomb.svg",
           "keys": [
             "w",
             "d",
@@ -406,7 +406,7 @@
         },
         {
           "name": "Eagle Napalm Strike",
-          "image_path": "../../assets/stratagems/hangar/Eagle_Napalm_Airstrike.svg",
+          "image_path": "../assets/stratagems/hangar/Eagle_Napalm_Airstrike.svg",
           "keys": [
             "w",
             "d",
@@ -416,7 +416,7 @@
         },
         {
           "name": "Jump Pack",
-          "image_path": "../../assets/stratagems/hangar/Jump_Pack.svg",
+          "image_path": "../assets/stratagems/hangar/Jump_Pack.svg",
           "keys": [
             "s",
             "w",
@@ -427,7 +427,7 @@
         },
         {
           "name": "Eagle Smoke Strike",
-          "image_path": "../../assets/stratagems/hangar/Eagle_Smoke_Strike.svg",
+          "image_path": "../assets/stratagems/hangar/Eagle_Smoke_Strike.svg",
           "keys": [
             "w",
             "d",
@@ -437,7 +437,7 @@
         },
         {
           "name": "Eagle 110MM Rocket Pods",
-          "image_path": "../../assets/stratagems/hangar/Eagle_110MM_Rocket Pods.svg",
+          "image_path": "../assets/stratagems/hangar/Eagle_110MM_Rocket Pods.svg",
           "keys": [
             "w",
             "d",
@@ -447,7 +447,7 @@
         },
         {
           "name": "Eagle 500KG Bomb",
-          "image_path": "../../assets/stratagems/hangar/Eagle_500KG_Bomb.svg",
+          "image_path": "../assets/stratagems/hangar/Eagle_500KG_Bomb.svg",
           "keys": [
             "w",
             "d",
@@ -462,7 +462,7 @@
       "stratagems": [
         {
           "name": "Orbital Precision Strike",
-          "image_path": "../../assets/stratagems/bridge/Orbital_Precision_Strike.svg",
+          "image_path": "../assets/stratagems/bridge/Orbital_Precision_Strike.svg",
           "keys": [
             "d",
             "d",
@@ -471,7 +471,7 @@
         },
         {
           "name": "Orbital Gas Strike",
-          "image_path": "../../assets/stratagems/bridge/Orbital_Gas_Strike.svg",
+          "image_path": "../assets/stratagems/bridge/Orbital_Gas_Strike.svg",
           "keys": [
             "d",
             "d",
@@ -481,7 +481,7 @@
         },
         {
           "name": "Orbital EMS Strike",
-          "image_path": "../../assets/stratagems/bridge/Orbital_EMS_Strike.svg",
+          "image_path": "../assets/stratagems/bridge/Orbital_EMS_Strike.svg",
           "keys": [
             "d",
             "d",
@@ -491,7 +491,7 @@
         },
         {
           "name": "Orbital Smoke Strike",
-          "image_path": "../../assets/stratagems/bridge/Orbital_Smoke_Strike.svg",
+          "image_path": "../assets/stratagems/bridge/Orbital_Smoke_Strike.svg",
           "keys": [
             "d",
             "d",
@@ -501,7 +501,7 @@
         },
         {
           "name": "HMG Emplacement",
-          "image_path": "../../assets/stratagems/bridge/HMG_Emplacement.svg",
+          "image_path": "../assets/stratagems/bridge/HMG_Emplacement.svg",
           "keys": [
             "s",
             "w",
@@ -513,7 +513,7 @@
         },
         {
           "name": "Shield Generator Relay",
-          "image_path": "../../assets/stratagems/bridge/Shield_Generator_Relay.svg",
+          "image_path": "../assets/stratagems/bridge/Shield_Generator_Relay.svg",
           "keys": [
             "s",
             "s",
@@ -525,7 +525,7 @@
         },
         {
           "name": "Tesla Tower",
-          "image_path": "../../assets/stratagems/bridge/Tesla_Tower.svg",
+          "image_path": "../assets/stratagems/bridge/Tesla_Tower.svg",
           "keys": [
             "s",
             "w",
@@ -541,7 +541,7 @@
       "stratagems": [
         {
           "name": "Anti-Personnel Minefield",
-          "image_path": "../../assets/stratagems/engineering_bay/Anti-Personnel_Minefield.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Anti-Personnel_Minefield.svg",
           "keys": [
             "s",
             "a",
@@ -551,7 +551,7 @@
         },
         {
           "name": "Supply Pack",
-          "image_path": "../../assets/stratagems/engineering_bay/Supply_Pack.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Supply_Pack.svg",
           "keys": [
             "s",
             "a",
@@ -563,7 +563,7 @@
         },
         {
           "name": "Grenade Launcher",
-          "image_path": "../../assets/stratagems/engineering_bay/Grenade_Launcher.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Grenade_Launcher.svg",
           "keys": [
             "s",
             "a",
@@ -574,7 +574,7 @@
         },
         {
           "name": "Laser Cannon",
-          "image_path": "../../assets/stratagems/engineering_bay/Laser_Cannon.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Laser_Cannon.svg",
           "keys": [
             "s",
             "a",
@@ -585,7 +585,7 @@
         },
         {
           "name": "Incendiary Mines",
-          "image_path": "../../assets/stratagems/engineering_bay/Incendiary_Mines.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Incendiary_Mines.svg",
           "keys": [
             "s",
             "a",
@@ -595,7 +595,7 @@
         },
         {
           "name": "Guard Dog Rover",
-          "image_path": "../../assets/stratagems/engineering_bay/Guard_Dog_Rover.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Guard_Dog_Rover.svg",
           "keys": [
             "s",
             "w",
@@ -607,7 +607,7 @@
         },
         {
           "name": "Ballistic Shield Backpack",
-          "image_path": "../../assets/stratagems/engineering_bay/Ballistic_Shield_Backpack.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Ballistic_Shield_Backpack.svg",
           "keys": [
             "s",
             "a",
@@ -619,7 +619,7 @@
         },
         {
           "name": "Arc Thrower",
-          "image_path": "../../assets/stratagems/engineering_bay/Arc_Thrower.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Arc_Thrower.svg",
           "keys": [
             "s",
             "d",
@@ -631,7 +631,7 @@
         },
         {
           "name": "Quasar Cannon",
-          "image_path": "../../assets/stratagems/engineering_bay/Quasar_Cannon.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Quasar_Cannon.svg",
           "keys": [
             "s",
             "s",
@@ -642,7 +642,7 @@
         },
         {
           "name": "Shield Generator Pack",
-          "image_path": "../../assets/stratagems/engineering_bay/Shield_Generator_Pack.svg",
+          "image_path": "../assets/stratagems/engineering_bay/Shield_Generator_Pack.svg",
           "keys": [
             "s",
             "w",
@@ -658,7 +658,7 @@
       "stratagems": [
         {
           "name": "Machine Gun Sentry",
-          "image_path": "../../assets/stratagems/robotics_workshop/Machine_Gun_Sentry.svg",
+          "image_path": "../assets/stratagems/robotics_workshop/Machine_Gun_Sentry.svg",
           "keys": [
             "s",
             "w",
@@ -669,7 +669,7 @@
         },
         {
           "name": "Gatling Sentry",
-          "image_path": "../../assets/stratagems/robotics_workshop/Gatling_Sentry.svg",
+          "image_path": "../assets/stratagems/robotics_workshop/Gatling_Sentry.svg",
           "keys": [
             "s",
             "w",
@@ -679,7 +679,7 @@
         },
         {
           "name": "Mortar Sentry",
-          "image_path": "../../assets/stratagems/robotics_workshop/Mortar_Sentry.svg",
+          "image_path": "../assets/stratagems/robotics_workshop/Mortar_Sentry.svg",
           "keys": [
             "s",
             "w",
@@ -690,7 +690,7 @@
         },
         {
           "name": "Guard Dog",
-          "image_path": "../../assets/stratagems/robotics_workshop/Guard_Dog.svg",
+          "image_path": "../assets/stratagems/robotics_workshop/Guard_Dog.svg",
           "keys": [
             "s",
             "w",
@@ -702,7 +702,7 @@
         },
         {
           "name": "Autocannon Sentry",
-          "image_path": "../../assets/stratagems/robotics_workshop/Autocannon_Sentry.svg",
+          "image_path": "../assets/stratagems/robotics_workshop/Autocannon_Sentry.svg",
           "keys": [
             "s",
             "w",
@@ -714,7 +714,7 @@
         },
         {
           "name": "Rocket Sentry",
-          "image_path": "../../assets/stratagems/robotics_workshop/Rocket_Sentry.svg",
+          "image_path": "../assets/stratagems/robotics_workshop/Rocket_Sentry.svg",
           "keys": [
             "s",
             "w",
@@ -725,7 +725,7 @@
         },
         {
           "name": "EMS Mortar Sentry",
-          "image_path": "../../assets/stratagems/robotics_workshop/EMS_Mortar_Sentry.svg",
+          "image_path": "../assets/stratagems/robotics_workshop/EMS_Mortar_Sentry.svg",
           "keys": [
             "s",
             "w",
@@ -736,7 +736,7 @@
         },
         {
           "name": "Patriot Exosuit",
-          "image_path": "../../assets/stratagems/robotics_workshop/Patriot_Exosuit.svg",
+          "image_path": "../assets/stratagems/robotics_workshop/Patriot_Exosuit.svg",
           "keys": [
             "a",
             "s",
@@ -749,7 +749,7 @@
         },
         {
           "name": "Emancipator Exosuit",
-          "image_path": "../../assets/stratagems/robotics_workshop/Emancipator_Exosuit.svg",
+          "image_path": "../assets/stratagems/robotics_workshop/Emancipator_Exosuit.svg",
           "keys": [
             "a",
             "s",
